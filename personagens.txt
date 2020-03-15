@@ -6,6 +6,11 @@ Sanji
 Robin
 Choop
 Franky
+<<<<<<< HEAD
 Brook
 Jinbei
 Sabbo
+=======
+Sabbo
+Shanks
+>>>>>>> Atualizado
