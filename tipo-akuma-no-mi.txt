@@ -5,3 +5,4 @@ Pedaco
 Areia
 Escuridao
 Luz
+Magma
