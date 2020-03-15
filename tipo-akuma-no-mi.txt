@@ -6,3 +6,4 @@ Areia
 Escuridao
 Luz
 Magma
+Pedra
