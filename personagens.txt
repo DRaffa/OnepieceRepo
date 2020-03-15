@@ -7,6 +7,7 @@ Robin
 Choop
 Franky
 <<<<<<< HEAD
+<<<<<<< HEAD
 Brook
 Jinbei
 Sabbo
@@ -14,3 +15,7 @@ Sabbo
 Sabbo
 Shanks
 >>>>>>> Atualizado
+=======
+Sabbo
+Shanks
+>>>>>>> 3edbd04f35cf59e5d43392063fd13895cb4f8114
